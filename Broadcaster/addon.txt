@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"Broadcaster"
+	"version"			"1.0"
+	"up_date"			"22 June 2013"
+	"author_name"		"Anonymous"
+	"author_email"		""
+	"author_url"		""
+	"info"				"!bceditor or !broadcasteditor in chat or broadcasteditor in console to open the Broadcasts Editor"
+	"override"			"0"
+}

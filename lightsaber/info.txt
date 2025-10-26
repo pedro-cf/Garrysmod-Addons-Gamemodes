@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"name"			"Light Saber"
+	"version"		"1"
+	"up_date"		""
+	"author_name"		""
+	"author_email"		""
+	"author_url"		""
+	"info"			""
+}

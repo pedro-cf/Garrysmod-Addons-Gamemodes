@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\gtaiv\helmets/black"
+	"$bumpmap" "models\gtaiv\helmets/helmet_n"
+	"$phong" "1"
+	"$phongexponent" "30"
+	"$phongboost" "2"	
+	"$phongfresnelranges"	"[0.1 2 1]"
+	"$halflambert" "1"
+
+	// Rim lighting parameters
+	"$rimlight" "1"	
+	"$rimlightexponent" "2"	
+	"$rimlightboost" "1"
+}

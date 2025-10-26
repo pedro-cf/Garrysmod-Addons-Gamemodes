@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"MOTD"
+	"version"			"2.0"
+	"up_date"			"14 April 2013"
+	"author_name"		"Anonymous"
+	"author_email"		""
+	"author_url"		""
+	"info"				"!motd to open the MOTD; !motdeditor to open the MOTD Editor"
+	"override"			"0"
+}

@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+
+	"$baseTexture" "Models/oggmix/fxogg"
+	"$translucent" "1"
+	"$halflambert" 1
+	"$nodecal" "1"
+	"$vertexalpha" 1
+}

@@ -1,0 +1,7 @@
+"Vertexlitgeneric"
+{
+	"$basetexture" "models/grim/mouth"
+		"$bumpmap" "models/grim/mouth_normal"
+	"$model" 1
+	"$halflambert" 1
+}

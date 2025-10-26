@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\gtaiv\helmets/visor"
+	"$translucent" 1
+}

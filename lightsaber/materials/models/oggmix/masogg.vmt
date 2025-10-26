@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+   "$baseTexture" "Models/oggmix/masogg"
+   "$bumpmap" "Models/oggmix/masogg_n"
+   "$envmapmask""Models/oggmix/masogg_f"
+   "$normalmapalphaenvmapmask" "1"
+   "$envmap" "env_cubemap"
+}

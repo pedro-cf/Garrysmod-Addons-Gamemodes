@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"		"CS:S Realistic Weapons"
+	"version"	"4.0"
+	"up_date"	"13th February 2008"
+	"author_name"	"WORSHIPPER"
+	"author_email"	"josephcadieux@hotmail.com"
+	"author_url"	"http://quebecsmadcows.superforum.fr/forum.htm"
+	"info"		"All the counter-strike weapons are present! Have fun!"
+	"override"	"0"
+}

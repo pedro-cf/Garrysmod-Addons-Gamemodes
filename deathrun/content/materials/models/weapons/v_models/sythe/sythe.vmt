@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\weapons\v_models\sythe\sythe"
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmapmask" "models\weapons\v_models\sythe\sythe_mask"
+	"$envmaptint" "[.7 .7 .7]"
+}

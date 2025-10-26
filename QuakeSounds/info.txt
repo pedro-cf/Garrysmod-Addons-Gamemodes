@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"Quake Sounds"
+	"version"			"4.5"
+	"up_date"			"26th Dezember 2011"
+	"author_name"		"Anonymous"
+	"author_email"		""
+	"author_url"		""
+	"info"				""
+	"override"			"0"
+}

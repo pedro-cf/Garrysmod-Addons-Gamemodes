@@ -1,0 +1,27 @@
+"Gamemode"
+{
+	"name"		"Deathrun"
+	"version"	"1"
+
+	"author_name"	"Scorpius289"
+	"author_email"	""
+	"author_url"	"http://www.cybergmod.net/"
+	
+	"icon"		""
+	"info"		""
+	"hide"		"0"
+
+	"fretta_maps"
+	{
+		"1"	"^deathrun_"
+		"2"	"^dr_"
+	}
+	"mappattern"
+	{
+		"1"	"^deathrun_"
+		"2"	"^dr_"
+	}
+
+	"selectable"	"1"
+	"description"	"Survive a level full of traps and kill the Deaths."
+}

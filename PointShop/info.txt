@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"name"			"PointShop"
+	"version"		"LDT 1.0"
+	"up_date"		"28th August 2010"
+	"author_name"	"_Undefined"
+	"author_url"	"http://equinox-studios.com"
+	"author_email"	"admin@equinox-studios.com"
+	"info"			"Adds a shop, allowing people to buy and sell items."
+}

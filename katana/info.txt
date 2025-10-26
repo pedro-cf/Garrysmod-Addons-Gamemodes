@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"name"			"Katana"
+	"version"		"2.0"
+	"up_date"		"9/14/2010"
+	"author_name"		"Baddog"
+	"author_email"		""
+	"author_url"		""
+	"info"			"Fixed version of the Katana. Models from SMOD."
+}

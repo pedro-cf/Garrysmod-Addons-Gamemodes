@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"		"SolidVote"
+	"version"	"1.0"
+	"up_date"	"22th April 2009"
+	"author_name"	"Overv"
+	"author_email"	"overv161@gmail.com"
+	"author_url"	"http://www.overvprojects.nl/"
+	
+	"info"		"This mod allows regulars to start votes for things like kicking players"
+}

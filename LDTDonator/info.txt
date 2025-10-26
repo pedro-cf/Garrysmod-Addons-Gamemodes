@@ -1,0 +1,10 @@
+"AddonInfo"
+ {
+ 	"name"		"LDTDonator"
+ 	"version"	"1"
+ 	"up_date"	"01-04-2011"
+ 	"author_name"	"psycix"
+ 	"author_email"	"pm psycix @ wwwl.LDT-clan.com"
+ 	"author_url"	"www.LDT-clan.com"
+ 	"info"		"LDT Donator system"
+ }
